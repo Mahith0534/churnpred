@@ -47,14 +47,14 @@ jupyter notebook Customer_Churn_Prediction.ipynb
 ## Dataset
 The dataset used for this project includes the following features:
 
--Customer tenure
--Monthly Charges
--Total Charges
--Contract type (Month-to-month, One year, Two years)
--Internet Service type
--Payment Method
--Churn (Target variable: Yes/No)
+- Customer tenure
+- Monthly Charges
+- Total Charges
+- Contract type (Month-to-month, One year, Two years)
+- Internet Service type
+- Payment Method
+- Churn (Target variable: Yes/No)
 ## Future Improvements
--Fine-tuning the model with more advanced hyperparameters.
--Expanding features to improve prediction accuracy.
--Deploying the model via a Flask API (optional).
+- Fine-tuning the model with more advanced hyperparameters.
+- Expanding features to improve prediction accuracy.
+- Deploying the model via a Flask API (optional).
